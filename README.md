@@ -50,7 +50,8 @@ Electrical Engineering student at the University of São Paulo (Poli-USP), inter
 ## GitHub Stats
  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/stats.svg" height="165" />
+  <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/top-langs.svg" height="165" />
 </div>
 
 <br/>
