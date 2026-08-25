@@ -12,10 +12,15 @@
   <img align="right" src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="350" style="margin-left: 20px; border-radius: 10px;" hspace="20" />
 </a>
 
-```shell
+```bash
 $ whoami
 
-Electrical Engineering student at the University of São Paulo (Poli-USP), interested in backend development and artificial inteligence. Also drawn to low-level programming — from C to hardware description languages like VHDL.
+Electrical Engineering student at the 
+University of São Paulo (Poli-USP), 
+interested in backend development and 
+artificial inteligence. Also drawn to 
+low-level programming — from C to 
+hardware description languages like VHDL.
 ```
 
 <br clear="both"/>
