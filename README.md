@@ -40,25 +40,19 @@ Electrical Engineering student at the University of São Paulo (Poli-USP), inter
 
 | Project | Description |
 |---|---|
-| [file-word-frequency-ai](https://github.com/JPBonfim/file-word-frequency-ai) | Word-frequency counter using NLP (spaCy) for text extraction and analysis |
-| [w1-hackathon](https://github.com/JPBonfim/w1-hackathon) | Project built during a hackathon hosted by W1 Holdings |
-| [fission-wizard](https://github.com/JPBonfim/fission-wizard) | Tool for automating mass deployment of Fission functions |
-| [PoliLEGv8-Processor](https://github.com/JPBonfim/PoliLEGv8-Processor) | VHDL implementation of a LEGv8 processor (Digital Systems, Poli-USP) |
-| [mini-smart-greenhouse](https://github.com/JPBonfim/mini-smart-greenhouse) | Automated greenhouse with temperature, lighting, and irrigation control via Arduino |
+| [mckinsey-hackathon](https://github.com/jpbonfim/mckinsey-hackathon) | Project for a hackathon hosted by McKinsey, aimed at engaging event attendees. |
+| [fission-wizard](https://github.com/jpbonfim/fission-wizard) | Tool for automating mass deployment of Fission functions |
+| [file-word-frequency-ai](https://github.com/jpbonfim/file-word-frequency-ai) | Word-frequency counter using NLP (spaCy) for text extraction and analysis |
+| [PoliLEGv8-Processor](https://github.com/jpbonfim/PoliLEGv8-Processor) | VHDL implementation of a reduced 8-instruction LEGv8 processor, built for the Digital Systems II course at Poli-USP |
+| [cave_and_tools](https://github.com/jpbonfim/cave_and_tools) | Procedural roguelike made in Unity. Features custom assets and procedural cave generation for a Computer Graphics final project. |
+| [mini-smart-greenhouse](https://github.com/jpbonfim/mini-smart-greenhouse) | Automated greenhouse with temperature, lighting, and irrigation control via Arduino |
 
 ## GitHub Stats
-
+ 
 <div align="center">
 <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/stats.svg" height="165" />
 <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/top-langs.svg" height="165" />
 </div>
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpbonfim/jpbonfim/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpbonfim/jpbonfim/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/output/github-contribution-grid-snake.svg" />
-</picture>
-
+<img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="100%" />
 </div>
