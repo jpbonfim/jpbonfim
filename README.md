@@ -10,14 +10,10 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
-      <p align="justify">
-        <i>Electrical Engineering</i> student at the University of São Paulo (<b>Poli-USP</b>), interested in <code>backend development</code> and <code>artificial inteligence</code>. Also drawn to low-level programming — from <code>C</code> to hardware description languages like <code>VHDL</code>.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="100%" style="border-radius: 10px;" />
-    </td>
+    <td width="60%"><pre lang="shell"><code>$ whoami
+
+Electrical Engineering student at the University of São Paulo (Poli-USP), interested in backend development and artificial inteligence. Also drawn to low-level programming — from C to hardware description languages like VHDL.</code></pre></td>
+    <td width="40%" align="center"><img src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="100%" style="border-radius: 10px;" /></td>
   </tr>
 </table>
 
