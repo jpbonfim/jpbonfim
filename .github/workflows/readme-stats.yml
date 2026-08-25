@@ -16,16 +16,21 @@ jobs:
 
       - name: Fetch stats card
         run: |
-          curl -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&hide_rank=true"
+          mkdir -p profile
+          curl -L -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&hide_rank=true"
 
       - name: Fetch top langs card
         run: |
-          curl -s -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&hide=vhdl,html,css"
+          curl -L -s -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&hide=vhdl,html,css"
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README stats cards" || exit 0
-          git push
+          git add profile/stats.svg profile/top-langs.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update README stats cards"
+            git push
+          fi
