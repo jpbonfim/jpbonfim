@@ -10,9 +10,11 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%">
+    <td width="45%">
 
 ```
+
+
 $ whoami
 
 Electrical Engineering student at the 
@@ -22,9 +24,11 @@ artificial inteligence. Also drawn to
 low-level programming — from C to 
 hardware description languages like VHDL.
 
+
+
 ```
 </td>
-    <td width="40%" align="center">
+    <td width="55%" align="center">
       <img src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
