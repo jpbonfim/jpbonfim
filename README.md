@@ -6,7 +6,7 @@
 </div>
 
 
-<h2><code>&gt; /SYS/ABOUT</code></h2>
+<h2><code>&gt; /about</code></h2>
 
 <table border="0" width="100%">
   <tr>
@@ -32,7 +32,7 @@ hardware description languages like VHDL.
 
 <br>
 
-<h2><code>&gt; /SYS/TECH_STACK</code></h2>
+<h2><code>&gt; /tech_stack</code></h2>
 
 <code>[ Languages & Frameworks ]</code>
 
@@ -65,7 +65,7 @@ hardware description languages like VHDL.
 <br>
 
 
-<h2><code>&gt; /SYS/FEATURED_PROJECTS</code></h2>
+<h2><code>&gt; /featured_projects</code></h2>
 
 | Project | Description |
 |---|---|
@@ -79,16 +79,15 @@ hardware description languages like VHDL.
 
 <br>
 
-
-<h2><code>&gt; /SYS/STATS</code></h2>
+<h2><code>&gt; /stats</code></h2>
  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/stats.svg?v=1" height="165" />
-  <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/top-langs.svg?v=1" height="165" />
+  <img src="profile/stats.svg" height="165" />
+  <img src="profile/top-langs.svg" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/activity-graph.svg" alt="Activity Graph" width="100%" />
+  <img src="profile/activity-graph.svg" alt="Activity Graph" width="100%" />
 </div>
