@@ -16,7 +16,7 @@ jobs:
 
       - name: Fetch stats card
         run: |
-          curl -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27"
+          curl -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&hide_rank=true"
 
       - name: Fetch top langs card
         run: |
