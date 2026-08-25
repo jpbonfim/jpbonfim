@@ -17,11 +17,24 @@ jobs:
       - name: Fetch stats card
         run: |
           mkdir -p profile
-          curl -L -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&title_color=ff9900&icon_color=ff9900&text_color=ff9900&bg_color=000000&hide_rank=true"
+          curl -L -s -o stats_temp.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&title_color=ff9900&icon_color=ff9900&text_color=ff9900&bg_color=000000&hide_rank=true"
+          if grep -q -i "DEPLOYMENT_PAUSED\|unavailable" stats_temp.svg; then
+            echo "Service is unavailable. Skipping stats update."
+          else
+            mv stats_temp.svg profile/stats.svg
+          fi
 
       - name: Fetch top langs card
         run: |
-          curl -L -s -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=ff9900&text_color=ff9900&bg_color=000000&hide=vhdl,html,css"
+          curl -L -s -o langs_temp.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=ff9900&text_color=ff9900&bg_color=000000&hide=vhdl,html,css"
+          if grep -q -i "DEPLOYMENT_PAUSED\|unavailable" langs_temp.svg; then
+            echo "Service is unavailable. Skipping top-langs update."
+          else
+            mv langs_temp.svg profile/top-langs.svg
+          fi
+
+      - name: Apply Aesthetics
+        run: python3 .github/scripts/apply_aesthetics.py
 
       - name: Commit cards
         run: |
