@@ -17,11 +17,11 @@ jobs:
       - name: Fetch stats card
         run: |
           mkdir -p profile
-          curl -L -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&hide_rank=true"
+          curl -L -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&title_color=ff9900&icon_color=ff9900&text_color=ff9900&bg_color=000000&hide_rank=true"
 
       - name: Fetch top langs card
         run: |
-          curl -L -s -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&hide=vhdl,html,css"
+          curl -L -s -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=ff9900&text_color=ff9900&bg_color=000000&hide=vhdl,html,css"
 
       - name: Commit cards
         run: |

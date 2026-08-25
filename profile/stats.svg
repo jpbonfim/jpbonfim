@@ -75,9 +75,6 @@
         stroke-dashoffset: 231.6869562804771;
       }
     }
-  
-  
-
           
       /* Animations */
       @keyframes scaleInAnimation {
