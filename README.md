@@ -8,16 +8,18 @@
 
 <h2><code>&gt; /SYS/ABOUT</code></h2>
 
-<div>
-  <img align="right" src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="350" style="margin-left: 20px; border-radius: 10px;" hspace="20" />
-  <p align="justify">
-    <br>
-    <br>
-    Electrical Engineeringstudent at the University of São Paulo (Poli-USP), interested in backend developmentand artificial inteligence. Also drawn to low-level programming — from C to hardware description languages like VHDL.
-  </p>
-</div>
-
-<br clear="both"/>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p align="justify">
+        <i>Electrical Engineering</i> student at the University of São Paulo (<b>Poli-USP</b>), interested in <code>backend development</code> and <code>artificial inteligence</code>. Also drawn to low-level programming — from <code>C</code> to hardware description languages like <code>VHDL</code>.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
