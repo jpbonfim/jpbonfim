@@ -1,42 +1,54 @@
 <div align="center">
-
-<h1>João Bonfim</h1>
-
-<p>Backend Development · Artificial Inteligence · Electrical Engineering</p>
-
+  <h1><code>[ João Bonfim ]</code></h1>
+  <code>Backend Development · Artificial Inteligence · Electrical Engineering</code>
 </div>
 
-## About
+---
 
-Electrical Engineering student at the University of São Paulo (Poli-USP), interested in backend development and artificial inteligence. Also drawn to low-level programming — from C to hardware description languages like VHDL.
+<h2><code>&gt; /SYS/ABOUT</code></h2>
 
-## Tech Stack
+<div>
+  <img align="right" src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="350" />
+  <p align="justify">
+    <br>
+    <i>Electrical Engineering</i> student at the University of São Paulo (<b>Poli-USP</b>), interested in <code>backend development</code> and <code>artificial inteligence</code>. Also drawn to low-level programming — from <code>C</code> to hardware description languages like <code>VHDL</code>.
+  </p>
+</div>
 
-**Languages & Frameworks**
+<br clear="both"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-6E4C13?style=for-the-badge)
+---
 
-**Data & Infrastructure**
+<h2><code>&gt; /SYS/TECH_STACK</code></h2>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<code>[ Languages & Frameworks ]</code> <br/>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff9900)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ff9900)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ff9900)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ff9900)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff9900)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff9900)
+![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logoColor=ff9900)
 
-**Tools**
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<code>[ Data & Infrastructure ]</code> <br/>
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff9900)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=ff9900)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff9900)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=ff9900)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=ff9900)
+![PostgreSQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff9900)
 
-## Featured Projects
+<br/>
+
+<code>[ Tools ]</code> <br/>
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff9900)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff9900)
+
+---
+
+<h2><code>&gt; /SYS/FEATURED_PROJECTS</code></h2>
 
 | Project | Description |
 |---|---|
@@ -47,7 +59,9 @@ Electrical Engineering student at the University of São Paulo (Poli-USP), inter
 | [cave_and_tools](https://github.com/jpbonfim/cave_and_tools) | Procedural roguelike made in Unity. Features custom assets and procedural cave generation for a Computer Graphics final project. |
 | [mini-smart-greenhouse](https://github.com/jpbonfim/mini-smart-greenhouse) | Automated greenhouse with temperature, lighting, and irrigation control via Arduino |
 
-## GitHub Stats
+---
+
+<h2><code>&gt; /SYS/STATS</code></h2>
  
 <div align="center">
   <img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/stats.svg?v=1" height="165" />
