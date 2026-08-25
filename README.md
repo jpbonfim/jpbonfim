@@ -1,27 +1,30 @@
 <div align="center">
   <h1><code>[ João Bonfim ]</code></h1>
   <code>Backend Development · Artificial Inteligence · Electrical Engineering</code>
+  
+  <br>
 </div>
 
----
 
 <h2><code>&gt; /SYS/ABOUT</code></h2>
 
 <div>
-  <img align="right" src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="350" />
+  <img align="right" src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="350" style="margin-left: 20px; border-radius: 10px;" hspace="20" />
   <p align="justify">
     <br>
-    <i>Electrical Engineering</i> student at the University of São Paulo (<b>Poli-USP</b>), interested in <code>backend development</code> and <code>artificial inteligence</code>. Also drawn to low-level programming — from <code>C</code> to hardware description languages like <code>VHDL</code>.
+    <br>
+    Electrical Engineeringstudent at the University of São Paulo (Poli-USP), interested in backend developmentand artificial inteligence. Also drawn to low-level programming — from C to hardware description languages like VHDL.
   </p>
 </div>
 
 <br clear="both"/>
 
----
+<br>
 
 <h2><code>&gt; /SYS/TECH_STACK</code></h2>
 
-<code>[ Languages & Frameworks ]</code> <br/>
+<code>[ Languages & Frameworks ]</code>
+
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff9900)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ff9900)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ff9900)
@@ -30,9 +33,10 @@
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff9900)
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logoColor=ff9900)
 
-<br/>
 
-<code>[ Data & Infrastructure ]</code> <br/>
+
+<code>[ Data & Infrastructure ]</code>
+
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff9900)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=ff9900)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff9900)
@@ -40,13 +44,15 @@
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=ff9900)
 ![PostgreSQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff9900)
 
-<br/>
 
-<code>[ Tools ]</code> <br/>
+<code>[ Tools ]</code> 
+
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff9900)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff9900)
 
----
+
+<br>
+
 
 <h2><code>&gt; /SYS/FEATURED_PROJECTS</code></h2>
 
@@ -59,7 +65,9 @@
 | [cave_and_tools](https://github.com/jpbonfim/cave_and_tools) | Procedural roguelike made in Unity. Features custom assets and procedural cave generation for a Computer Graphics final project. |
 | [mini-smart-greenhouse](https://github.com/jpbonfim/mini-smart-greenhouse) | Automated greenhouse with temperature, lighting, and irrigation control via Arduino |
 
----
+
+<br>
+
 
 <h2><code>&gt; /SYS/STATS</code></h2>
  
