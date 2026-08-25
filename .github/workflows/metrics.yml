@@ -1,0 +1,32 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Vai tentar usar o PAT_TOKEN se existir, senão usa o GITHUB_TOKEN padrão
+          token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+          filename: profile/metrics.svg
+          
+          # Configurações base
+          config_timezone: America/Sao_Paulo
+          base: header, activity, repositories
+          
+          # Tema Tokyo Night (baseado na paleta tokyonight)
+          config_theme: tokyonight
+          
+          # Linguagens (com VHDL e HTML ignorados!)
+          plugin_languages: yes
+          plugin_languages_ignored: vhdl, html, jupyter notebook, css
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
