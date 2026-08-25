@@ -12,14 +12,16 @@
   <tr>
     <td width="60%">
 
-```shell
+```
 $ whoami
+
 Electrical Engineering student at the 
 University of São Paulo (Poli-USP), 
 interested in backend development and 
 artificial inteligence. Also drawn to 
 low-level programming — from C to 
 hardware description languages like VHDL.
+
 ```
 </td>
     <td width="40%" align="center">
