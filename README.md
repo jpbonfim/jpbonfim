@@ -8,14 +8,17 @@
 
 <h2><code>&gt; /SYS/ABOUT</code></h2>
 
-<table border="0">
-  <tr>
-    <td width="60%"><pre lang="shell"><code>$ whoami
+<a href="#">
+  <img align="right" src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="350" style="margin-left: 20px; border-radius: 10px;" hspace="20" />
+</a>
 
-Electrical Engineering student at the University of São Paulo (Poli-USP), interested in backend development and artificial inteligence. Also drawn to low-level programming — from C to hardware description languages like VHDL.</code></pre></td>
-    <td width="40%" align="center"><img src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="100%" style="border-radius: 10px;" /></td>
-  </tr>
-</table>
+```shell
+$ whoami
+
+Electrical Engineering student at the University of São Paulo (Poli-USP), interested in backend development and artificial inteligence. Also drawn to low-level programming — from C to hardware description languages like VHDL.
+```
+
+<br clear="both"/>
 
 <br>
 
