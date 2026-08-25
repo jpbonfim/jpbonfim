@@ -2,14 +2,13 @@
 
 <h1>João Bonfim</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F3864&center=true&vCenter=true&width=520&lines=Backend+Development+%7C+Python+%26+FastAPI;Electrical+Engineering+%40+Poli-USP;Applied+AI+%26+NLP+Enthusiast" alt="Typing SVG" />
+<p>Backend Development · Artificial Inteligence · Electrical Engineering</p>
 
 </div>
 
 ## About
 
-Electrical Engineering student at the University of São Paulo (Poli-USP), focused on backend development and applied AI.
-
+Electrical Engineering student at the University of São Paulo (Poli-USP), interested in backend development and artificial inteligence. Also drawn to low-level programming — from C to hardware description languages like VHDL.
 
 ## Tech Stack
 
@@ -17,10 +16,11 @@ Electrical Engineering student at the University of São Paulo (Poli-USP), focus
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-6E4C13?style=for-the-badge)
 
 **Data & Infrastructure**
 
@@ -35,7 +35,6 @@ Electrical Engineering student at the University of São Paulo (Poli-USP), focus
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VHDL](https://img.shields.io/badge/VHDL-Digital%20Systems-6E4C13?style=for-the-badge)
 
 ## Featured Projects
 
@@ -50,10 +49,16 @@ Electrical Engineering student at the University of São Paulo (Poli-USP), focus
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jpbonfim&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbonfim&layout=compact&hide_border=true" />
+<img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/stats.svg" height="165" />
+<img src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/main/profile/top-langs.svg" height="165" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jpbonfim&hide_border=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpbonfim/jpbonfim/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpbonfim/jpbonfim/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jpbonfim/jpbonfim/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
