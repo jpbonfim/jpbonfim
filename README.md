@@ -73,12 +73,11 @@ hardware description languages like VHDL.
 
 | Project | Description |
 |---|---|
-| [mckinsey-hackathon](https://github.com/jpbonfim/mckinsey-hackathon) | Project for a hackathon hosted by McKinsey, aimed at engaging event attendees. |
-| [fission-wizard](https://github.com/jpbonfim/fission-wizard) | Tool for automating mass deployment of Fission functions |
-| [file-word-frequency-ai](https://github.com/jpbonfim/file-word-frequency-ai) | Word-frequency counter using NLP (spaCy) for text extraction and analysis |
+| [mckinsey-hackathon](https://github.com/jpbonfim/mckinsey-hackathon) | Full-stack project built for a hackathon hosted by McKinsey, aimed at engaging event attendees |
+| [bwrap-sandbox](https://github.com/jpbonfim/bwrap-sandbox) | Security-hardened, zero-daemon Bubblewrap sandbox for isolating autonomous AI coding agents |
+| [cheat-sheet](https://github.com/jpbonfim/cheat-sheet) | Fast, zero-dependency interactive cheatsheet viewer and alias navigator for the terminal, with Shell and Tmux integration |
+| [ghostty-themes-picker](https://github.com/jpbonfim/ghostty-themes-picker) | Zero-dependency TUI theme picker for Ghostty with live 24-bit preview, perceptual color categorization, and fuzzy search |
 | [PoliLEGv8-Processor](https://github.com/jpbonfim/PoliLEGv8-Processor) | VHDL implementation of a reduced 8-instruction LEGv8 processor, built for the Digital Systems II course at Poli-USP |
-| [cave_and_tools](https://github.com/jpbonfim/cave_and_tools) | Procedural roguelike made in Unity. Features custom assets and procedural cave generation for a Computer Graphics final project. |
-| [mini-smart-greenhouse](https://github.com/jpbonfim/mini-smart-greenhouse) | Automated greenhouse with temperature, lighting, and irrigation control via Arduino |
 
 
 <br>
