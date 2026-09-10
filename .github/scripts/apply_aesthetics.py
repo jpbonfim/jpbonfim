@@ -21,27 +21,6 @@ def patch_file(filepath, patches):
         print(f"No changes made to {filepath}")
 
 def main():
-    # 1. Patch stats.svg
-    patch_file('profile/stats.svg', [
-        (r'stroke-opacity="0"', r'stroke-opacity="1"')
-    ])
-
-    # 2. Patch top-langs.svg
-    patch_file('profile/top-langs.svg', [
-        # Fix dimensions
-        (r'<svg width="300" height="285" viewBox="0 0 300 285"', r'<svg width="350" height="285" viewBox="0 0 350 285"'),
-        (r'width="299" fill="#000000" stroke-opacity="0"', r'width="349" fill="#000000" stroke-opacity="1"'),
-        (r'width="299" fill="#000000" stroke-opacity="1"', r'width="349" fill="#000000" stroke-opacity="1"'),
-        
-        # In case stroke-opacity wasn't bundled with width="299" in the regex match:
-        (r'stroke-opacity="0"', r'stroke-opacity="1"'),
-        
-        # Fix font sizes
-        (r'\.lang-name\s*\{\s*font:\s*400\s*11px', r'.lang-name { font: 600 14px'),
-        
-        # Shift second column
-        (r'<g transform="translate\(150,\s*0\)">', r'<g transform="translate(180, 0)">')
-    ])
 
     # 3. Patch activity-graph.svg
     patch_file('profile/activity-graph.svg', [

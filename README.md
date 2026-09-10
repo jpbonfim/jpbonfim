@@ -21,7 +21,7 @@ Electrical Engineering student at the
 University of São Paulo (Poli-USP), 
 interested in backend development and 
 artificial inteligence. Also drawn to 
-low-level programming — from C to 
+low-level programming, from C to 
 hardware description languages like VHDL.
 
 
@@ -84,13 +84,6 @@ hardware description languages like VHDL.
 <br>
 
 <h2><code>&gt; /stats</code></h2>
- 
-<div align="center">
-  <img src="profile/stats.svg" height="165" />
-  <img src="profile/top-langs.svg" height="165" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="profile/activity-graph.svg" alt="Activity Graph" width="100%" />
