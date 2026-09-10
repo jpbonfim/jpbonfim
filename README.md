@@ -29,7 +29,7 @@ hardware description languages like VHDL.
 ```
 </td>
     <td width="55%" align="center">
-      <img src="https://media1.tenor.com/m/Tgd7z9bKYcIAAAAC/analog-tech-computer.gif" width="100%" style="border-radius: 10px;" />
+      <img src="profile/analog-tech-computer.gif" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
