@@ -73,7 +73,7 @@ hardware description languages like VHDL.
 
 | Project | Description |
 |---|---|
-| [mckinsey-hackathon](https://github.com/jpbonfim/mckinsey-hackathon) | Full-stack project built for a hackathon hosted by McKinsey, aimed at engaging event attendees |
+| [live-audience-ai](https://github.com/jpbonfim/live-audience-ai) | Live audience engagement platform and event intelligence powered by AI. |
 | [bwrap-sandbox](https://github.com/jpbonfim/bwrap-sandbox) | Security-hardened, zero-daemon Bubblewrap sandbox for isolating autonomous AI coding agents |
 | [cheat-sheet](https://github.com/jpbonfim/cheat-sheet) | Fast, zero-dependency interactive cheatsheet viewer and alias navigator for the terminal, with Shell and Tmux integration |
 | [ghostty-themes-picker](https://github.com/jpbonfim/ghostty-themes-picker) | Zero-dependency TUI theme picker for Ghostty with live 24-bit preview, perceptual color categorization, and fuzzy search |
